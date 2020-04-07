@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3303cc4d5bb9ca8ea1b6fe44ecf0327e",
+    "revision": "3731c8862c58ae65cc27f6666689df2f",
     "url": "/Crio-Launch-Feb-2020-kevaltalaviya122/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Crio-Launch-Feb-2020-kevaltalaviya122/static/css/2.57ddf7ad.chunk.css"
   },
   {
-    "revision": "932bca9b8139865e98d4",
+    "revision": "7957ece29de57b585f14",
     "url": "/Crio-Launch-Feb-2020-kevaltalaviya122/static/css/main.5db1380d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Crio-Launch-Feb-2020-kevaltalaviya122/static/js/2.59e905b0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "932bca9b8139865e98d4",
-    "url": "/Crio-Launch-Feb-2020-kevaltalaviya122/static/js/main.68171827.chunk.js"
+    "revision": "7957ece29de57b585f14",
+    "url": "/Crio-Launch-Feb-2020-kevaltalaviya122/static/js/main.dfa1cc8a.chunk.js"
   },
   {
     "revision": "685147b33d67741ca74c",
